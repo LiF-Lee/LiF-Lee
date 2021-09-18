@@ -1,10 +1,19 @@
 ### Hi there 👋
 
+# 공부 중인 것들
+- Unity
+- JavaScript
+- C#
+- PHP
+- Kotlin
+- Java
+- Node.js
+- Python
+- SQL
+
 ![EliF's github stats](https://github-readme-stats.vercel.app/api?username=elif-lee&hide=contribs,stars&count_private=true&show_icons=true&theme=dracula)
 
 <!--
-**EliF-ASeN/EliF-ASeN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
