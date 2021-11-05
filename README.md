@@ -3,6 +3,7 @@
 # 공부 중인 것들
 - Unity
 - JavaScript
+- C
 - C#
 - PHP
 - Kotlin
