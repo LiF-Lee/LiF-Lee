@@ -36,9 +36,9 @@
 
 ### Software
 
+![Unity](https://img.shields.io/badge/-unity-000000?style=for-the-badge&logo=unity&logoColor=fff)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=fff)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=fff)
-![Unity](https://img.shields.io/badge/-unity-000000?style=for-the-badge&logo=unity&logoColor=fff)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-adobe%20photoshop-00599c?style=for-the-badge&logo=adobe%20photoshop&logoColor=fff)
 ![Adobe Illustrator](https://img.shields.io/badge/-adobe%20illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=fff)
