@@ -34,7 +34,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=fff)
 
-### ㄴoftware
+### Software
 
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=fff)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=fff)
