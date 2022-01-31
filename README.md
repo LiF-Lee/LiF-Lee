@@ -2,7 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/EliF-Lee">
-    <img src="https://github-readme-stats.vercel.app/api?username=elif-lee&hide=&count_private=true&show_icons=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    <img width="450" src="https://github-readme-stats.vercel.app/api?username=elif-lee&hide=&count_private=true&show_icons=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  </a>
+  <a href="https://solved.ac/lif">
+    <img width="365" src="http://mazandi.herokuapp.com/api?handle=lif&theme=dark" />
   </a>
 </p>
 
