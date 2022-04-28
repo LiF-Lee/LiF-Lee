@@ -13,9 +13,10 @@
  |      |  |  `---. |  `---.      \       /|  '-'  / 
  `------'  `------' `------'       `-----'  `-----'  
 ```
-  
-<p href="https://solved.ac/profile/lif">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lif" />
+<p>
+  <a href="https://solved.ac/profile/lif">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lif" />
+  </a>
 </p>
   
 <a href="https://github.com/EliF-Lee">
