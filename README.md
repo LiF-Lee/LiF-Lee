@@ -14,6 +14,10 @@
  `------'  `------' `------'       `-----'  `-----'  
 ```
   
+<p href="https://solved.ac/profile/lif">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lif" />
+</p>
+  
 <a href="https://github.com/EliF-Lee">
   <img src="https://github-readme-stats.vercel.app/api?username=elif-lee&hide=&count_private=true&show_icons=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
@@ -25,6 +29,7 @@
 </div>
 
 ## Skills
+<!-- https://simpleicons.org -->
 
 ### Language
 ![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
@@ -60,4 +65,4 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=fff)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=fff)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=fff)
-![Aseprite](https://img.shields.io/badge/-aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=fff)
+![fmod](https://img.shields.io/badge/-fmod-000000?style=for-the-badge&logo=fmod&logoColor=fff)
