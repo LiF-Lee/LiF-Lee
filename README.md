@@ -20,7 +20,7 @@
 </p>
   
 <a href="https://github.com/EliF-Lee">
-  <img src="https://github-readme-stats.vercel.app/api?username=elif-lee&hide=&count_private=true&show_icons=true&theme=dracula&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elif-lee&hide=&count_private=true&show_icons=true&theme=vue" />
 </a>
 
 <a href="https://github.com/EliF-Lee?tab=repositories">
