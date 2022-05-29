@@ -31,6 +31,9 @@
  
 </div>
 
+<details>
+   <summary> <samp>&#9776; Skill Details</samp></summary>
+
 ## Skills
 <!-- https://simpleicons.org -->
 
@@ -69,3 +72,4 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=fff)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=fff)
 ![fmod](https://img.shields.io/badge/-fmod-000000?style=for-the-badge&logo=fmod&logoColor=fff)
+</details>
