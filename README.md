@@ -1,43 +1,32 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEliF-Lee%2FEliF-Lee&count_bg=%236495ED&title_bg=%23555555&icon=aiqfome.svg&icon_color=%23F0FFFF&title=Thanks+for+Visiting&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--
-<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=lif" />
--->
 <div align=center>
-
-``` py
-             ('-.     ('-.          .-')             
-           _(  OO)  _(  OO)        ( OO ).           
- ,--.     (,------.(,------.      (_)---\_)     ,--. 
- |  |.-')  |  .---' |  .---'      /    _ |  .-')| ,| 
- |  | OO ) |  |     |  |          \  :` `. ( OO |(_| 
- |  |`-' |(|  '--. (|  '--.        '..`''.)| `-'|  | 
-(|  '---.' |  .--'  |  .--'       .-._)   \,--. |  | 
- |      |  |  `---. |  `---.      \       /|  '-'  / 
- `------'  `------' `------'       `-----'  `-----'  
-```
-<p>
-  <a href="https://solved.ac/profile/lif">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lif" />
+  <a href="https://github.com/EliF-Lee">
+    <img align=left src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEliF-Lee%2FEliF-Lee&count_bg=%236495ED&title_bg=%23555555&icon=aiqfome.svg&icon_color=%23F0FFFF&title=Thanks+for+Visiting&edge_flat=false" />
+    <br>
+    <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=「%20Lee%20SJ%20」&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=45" />
   </a>
-</p>
-  
-<a href="https://github.com/EliF-Lee">
-  <img src="https://github-readme-stats.vercel.app/api?username=elif-lee&count_private=true&show_icons=true&theme=dark&bg_color=DEG,0D1117,161B22&hide_border=true" />
-</a>
-
-<a href="https://github.com/EliF-Lee?tab=repositories">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elif-lee&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
-</a>
- 
 </div>
 
+<div align=center>
+  <p>
+    <a href="https://solved.ac/profile/lif">
+      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lif" />
+    </a>
+  </p>
 
+  <a href="https://github.com/EliF-Lee">
+    <img src="https://github-readme-stats.vercel.app/api?username=elif-lee&count_private=true&show_icons=true&theme=dark&bg_color=DEG,0D1117,161B22&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/EliF-Lee?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elif-lee&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+  </a>
+
+</div>
 
 <details>
-   <summary> <samp>Skill Details</samp></summary>
+<summary><samp>Skill Details</samp></summary>
 
 ## Skills
-<!-- https://simpleicons.org -->
 
 ### Language
 ![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
