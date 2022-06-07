@@ -31,8 +31,10 @@
  
 </div>
 
+
+
 <details>
-   <summary> <samp>&#9776; Skill Details</samp></summary>
+   <summary> <samp>Skill Details</samp></summary>
 
 ## Skills
 <!-- https://simpleicons.org -->
