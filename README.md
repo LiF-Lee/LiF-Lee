@@ -2,11 +2,11 @@
   <a href="https://github.com/LiF-Lee">
     <img align=left src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEliF-Lee%2FEliF-Lee&count_bg=%236495ED&title_bg=%23555555&icon=aiqfome.svg&icon_color=%23F0FFFF&title=Thanks+for+Visiting&edge_flat=false" />
     <br>
-    <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=「%20Lee%20SJ%20」&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=45" />
+    <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=「%20Lee%20SJ%20」&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
   </a>
   <p>
     <a href="https://solved.ac/profile/lif">
-      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=lif" />
+      <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=lif" />
     </a>
   </p>
   <a href="https://github.com/LiF-Lee">
@@ -26,7 +26,6 @@
 ![C](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=fff)
 ![C++](https://img.shields.io/badge/-c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 ![C#](https://img.shields.io/badge/-c%23-239120?style=for-the-badge&logo=csharp&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
