@@ -10,7 +10,7 @@
     </a>
   </p>
   <a href="https://github.com/LiF-Lee">
-    <img src="https://github-readme-stats.vercel.app/api?username=lif-lee&count_private=true&show_icons=true&theme=dark&bg_color=DEG,0D1117,161B22&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lif-lee&show_icons=true&theme=dark&bg_color=DEG,0D1117,161B22&hide_border=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/LiF-Lee?tab=repositories">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lif-lee&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
