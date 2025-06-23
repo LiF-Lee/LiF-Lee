@@ -1,7 +1,5 @@
 <div align=center>
   <a href="https://github.com/LiF-Lee">
-    <img align=left src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEliF-Lee%2FEliF-Lee&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false" />
-    <br>
     <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=「%20Lee%20SJ%20」&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
   </a>
   <p>
