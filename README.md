@@ -2,7 +2,7 @@
   <a href="https://github.com/LiF-Lee">
     <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=「%20Lee%20SJ%20」&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
   </a>
-  <p>
+  <!-- <p>
     <a href="https://solved.ac/profile/lif">
       <img style="height: 7rem;" src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=lif" />
     </a>
@@ -15,10 +15,8 @@
   </a>
   <a href="https://github.com/LiF-Lee?tab=repositories">
     <img style="height: 10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=lif-lee&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
-  </a>
+  </a> -->
 </div>
-
----
 
 <h3 align="center">✨ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 ✨</h3>
 <div align="center">
@@ -77,41 +75,4 @@
   <a href="mailto:leesj.dev@gmail.com">
     <img style="text-decoration: none;" src="https://img.shields.io/badge/leesj.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
-
----
-
-<div align=center>
-  <p>
-    <a href="https://github.com/Team14ri/Halloween-Ghost-Miffy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Team14ri&repo=Halloween-Ghost-Miffy&v=1" />
-    </a>
-    <a href="https://github.com/CK24-Surround/stereomix-launcher">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CK24-Surround&repo=stereomix-launcher" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/LiF-Lee/shareKakao">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiF-Lee&repo=shareKakao" />
-    </a>
-    <a href="https://github.com/otlus/Clipboard-Manager">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=otlus&repo=Clipboard-Manager" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/LiF-Lee/NaverCafePlus">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiF-Lee&repo=NaverCafePlus" />
-    </a>
-    <a href="https://github.com/LiF-Lee/Pac-Man">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiF-Lee&repo=Pac-Man" />
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/LiF-Lee/Kakao-WebTalk-Log">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiF-Lee&repo=Kakao-WebTalk-Log" />
-    </a>
-    <a href="https://github.com/LiF-Lee/short">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiF-Lee&repo=short" />
-    </a>
-  </p>
 </div>
